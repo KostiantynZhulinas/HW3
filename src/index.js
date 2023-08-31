@@ -20,7 +20,7 @@ if (number % 3 === 0 && number % 5 === 0) {
 // }
 // console.log(accessAllowed);
 
-// let age = prompt('Скільки Вам років?', '');
+// let age = prompt('Вкажіть Ваш вік', '');
 
 // if (age % 10 === 1 && age % 100 !== 11) {
 //      console.log('Вам ' + age + ' рік!');
